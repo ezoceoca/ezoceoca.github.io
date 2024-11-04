@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezoceoca.github.io/GHc/sitemap_index.txt
+Sitemap: https://ezoceoca.github.io/dwr/sitemap_index.txt
+Sitemap: https://ezoceoca.github.io/gXi/sitemap_index.txt
+Sitemap: https://ezoceoca.github.io/iBt/sitemap_index.txt
